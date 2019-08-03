@@ -1,0 +1,196 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>PaPoC 2015</title>
+  <link href='http://fonts.googleapis.com/css?family=Archivo+Narrow:400,700|Open+Sans:400,300' rel='stylesheet' type='text/css'>
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen">
+</head>
+<body>
+
+<div id="wrapper">
+
+  <div id="header-wrapper">
+    <!-- start header -->
+    <div id="header">
+    <!--#include virtual="./menu.html" --> 
+    </div>
+    <div id="banner">
+    <!--#include virtual="./banner.html" --> 
+    </div>
+  </div>
+
+  <!-- end header -->
+
+  <!-- start page -->
+  <div id="page"><!-- start content -->
+  <div id="content">
+  <div class="post">
+
+  <h2>News</h2>
+
+  <p style="text-align: justify;"><strong>Check these two post-workshop blog posts by <a href="http://homes.cs.washington.edu/~bholt/posts/papoc-musings.html">Brandon Holt</a> and by <a href="http://composition.al/blog/2015/04/29/a-few-notes-from-papoc-2015/">Lindsey Kuper</a>.</strong></p>
+
+
+  <p style="text-align: justify;"><strong>The papers are now available in the <a href="toc.html">ACM DL.</strong></a></p>
+
+  
+  <!-- 
+  <p style="text-align: justify;"><strong>The full program is now available in the <a href="program.html">Program section.</strong></a></p>
+
+  <p style="text-align: justify;"><strong>Paper submissions closed</strong></p>
+
+
+  <p style="text-align: justify;"><strong>The list of accepted talks is now available in the <a href="program.html">Program section.</strong></a></p>
+
+  <p style="text-align: justify;"><strong>Paper submission deadline has been extended. Please check the submission <a href="submission.html">guidelines.</a></strong></p>
+
+  <p style="text-align: justify;"><strong>Paper submission is <a href="https://www.easychair.org/conferences/?conf=wpsds2014">open</a>. Please check the submission <a href="submission.html">guidelines.</a></strong></p> 
+ 
+    -->
+
+    <!--   <p style="text-align: justify;"><strong>Call for Papers <a href="cfp.html">available</a>.</strong></p> -->
+    <!--
+  <p style="text-align: justify;"><strong>Submission date extended to <a href="submission.html">17th February</a>. (any place on Earth)</strong></p>
+  -->
+
+  <p style="text-align: justify;"><strong>Invited Talks:</strong></p>
+
+<ul>
+  <li>Marcos Aguilera, (VMware Inc., USA)
+  <p>Yesquel: scalable SQL storage for web applications</p>
+  <p>
+  Web applications (web mail, web stores, social networks) keep massive amounts of data that must be readily available to users. The storage system underlying these applications has evolved dramatically over the past 25 years, from file systems, to SQL database systems, to a large variety of NOSQL systems. In this talk, we contemplate this fascinating history and present a new storage system called Yesquel. Yesquel combines several advantages of prior systems. It supports the SQL query language to facilitate the design of Web applications, while offering performance and scalability of NOSQL systems.
+  </p>
+  </li>
+
+  <li>Peter Bourgon, (SoundCloud, Germany)
+  <p>CRDTs in production</p>
+  <p>
+  CRDTs are a well-known mechanism to implement a form of eventual
+  consistency in distributed systems. But there can be a big leap
+  between theory and practice, and there's a lot to be learned in the
+  application of theory to industry. This talk describes Roshi, a
+  purpose-built, CRDT-based data system powering the SoundCloud stream,
+  and many other product features. Special emphasis is placed on
+  real-world design considerations and tradeoffs.
+  </p>
+  </li>
+</ul>
+
+    
+  <p>&nbsp;</p>
+
+  <p style="text-align: justify;"><strong>Accepted Papers:</strong></p>
+  <ul>
+    <li>
+    David Navalho, Sérgio Duarte and Nuno Preguiça.
+    <p>
+    A Study of CRDTs that do Computations
+    </p>
+    </li>
+    <li>
+    Alejandro Zlatko Tomsic, Tyler Crain and Marc Shapiro. 
+    <p>
+    An empirical perspective on causal consistency
+    </p>
+    </li>
+    <li>
+    Amadeo Asco and Annette Bieniusa. 
+    <p>
+    Adaptive Strength Geo–Replication Strategy
+    </p>
+    </li>
+    <li>
+    Giovanni Bernardi, Andrea Cerone, Alexey Gotsman and Hongseok Yang.
+    <p>
+    Analysing and Optimising Parallel Snapshot Isolation
+    </p>
+    </li>
+    <li>
+    Brandon Holt, Irene Zhang, Dan Ports, Mark Oskin and Luis Ceze. 
+    <p>
+    Claret: Using Data Types for Highly Concurrent Distributed Transactions
+    </p>
+    </li>
+    <li>
+    Santiago Castiñeira and Annette Bieniusa. 
+    <p>
+    Collaborative offline web applications using Conflict-free Replicated Data Types
+    </p>
+    </li>
+    <li>
+    Tyler Crain and Marc Shapiro. 
+    <p>
+    Designing a causally consistent protocol for geo-distributed partial replication
+    </p>
+    </li>
+    <li>
+    Christopher Meiklejohn and Peter Van Roy. 
+    <p>
+    Lasp: A Language for Distributed, Eventually Consistent Computations with CRDTs
+    </p>
+    </li>
+    <li>
+    Cheng Li, João Leitão, Allen Clement, Nuno Preguiça and Rodrigo Rodrigues.
+    <p>
+    Minimizing Coordination in Replicated Systems
+    </p>
+    </li>
+    <li>
+    Alysson Bessani, Ricardo Mendes and Tiago Oliveira. 
+    <p>
+    On the Consistency of Heterogeneous Composite Objects
+    </p>
+    </li>
+    <li>
+    Manuel Bravo, Paolo Romano, Luís Rodrigues and Peter Van Roy. 
+    <p>
+    Reducing the Vulnerability Window in Distributed Transactional Protocols
+    </p>
+    </li>
+  </ul>
+
+  <p>&nbsp;</p>
+
+  <h2>Call For Participation </h2>
+
+  <p style="text-align: justify;">
+  The Workshop on Principles and Practice of Consistency for Distributed Data will take place on April 21, 2015, in Bordeaux, France, and is co-located with the <a href="http://eurosys2015.labri.fr"> EuroSys 2015</a> conference. It is the direct successor of the EuroSys 2014 <a href="http://eventos.fct.unl.pt/papec">Workshop on Principles and Practice of Eventual Consistency</a> which brought together approximately 40 researchers and practitioners in the areas of distributed systems, programming languages, databases and concurrent programming.
+  </p>
+
+  <p style="text-align: justify;">
+  This workshop aims to investigate the principles and practice of weak consistency models for large-scale, distributed shared data systems. It will bring together theoreticians and practitioners from different horizons: system development, distributed algorithms, concurrency, fault tolerance, databases, language and verification, including both academia and industry.
+
+   The <a href="cfp.html">Call for Papers</a> for PaPoC 2015 is available, please consider submitting your work.
+  </p>
+
+  <p style="text-align: justify;"> For any question or suggestion you may have please do not hesitate <a href="mailto:papoc2015@di.uminho.pt">contacting us</a>!
+  </p>
+
+  <!--#include virtual="./sponsors.html" --> 
+
+  </div>
+  </div>
+
+  <!-- end content -->
+  <!-- start sidebar -->
+  <!--#include virtual="./sidebar.html" --> 
+  <!-- end sidebar -->
+
+  <div style="clear: both;">&nbsp;</div>
+
+  </div>
+
+  <!-- end page -->
+  <!-- start footer -->
+  <div id="footer">
+  <p>&nbsp;Designed with a template from <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+  <p>&nbsp;Mars image credit: NASA/JPL/Marco Di Lorenzo/Ken Kremer.</p>
+
+  </div>
+</div>
+
+<!-- end footer -->
+</body></html>
+<!-- Localized -->

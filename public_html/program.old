@@ -1,0 +1,199 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>PaPoC 2015</title>
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen">
+  <link href='http://fonts.googleapis.com/css?family=Archivo+Narrow:400,700|Open+Sans:400,300' rel='stylesheet' type='text/css'>
+
+</head><body>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20848105-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<div id="wrapper">
+
+  <div id="header-wrapper">
+    <!-- start header -->
+    <div id="header">
+    <!--#include virtual="./menu.html" --> 
+    </div>
+    <div id="banner">
+    <!--#include virtual="./banner.html" --> 
+    </div>
+  </div>
+
+<!-- end header -->
+<!-- start page -->
+<div id="page"><!-- start content -->
+<div id="content">
+<div class="post">
+
+<!--<p style="text-align: justify;"> We still don't have any details about the program.</p> -->
+<h2>Program </h2>
+
+<h3>Tuesday April 21, 2015</h3> 
+<ul type="disc"> 
+  <li><b> 08:30 - 08:40 Welcome and opening</b>, Marco Serafini and Carlos Baquero</li>
+  <li><b> 08:40 - 09:30 Keynote - Yesquel: scalable SQL storage for web applications</b>, <a href="https://labs.vmware.com/academic/research">Marcos Aguilera</a>, (VMware Inc., USA)</li>
+  <li><b> 09:30 - 10:30 Session 1 - Lindsey Kuper</b><br>
+  Brandon Holt, Irene Zhang, Dan Ports, Mark Oskin and Luis Ceze.
+  Claret: Using Data Types for Highly Concurrent Distributed Transactions<br>
+  David Navalho, Sérgio Duarte and Nuno Preguiça.
+  A Study of CRDTs that do Computations<br>
+  Cheng Li, João Leitão, Allen Clement, Nuno Preguiça and Rodrigo Rodrigues.
+  Minimizing Coordination in Replicated Systems<br>
+  <li><b> 10:30 - 11:00 Coffee Break</b></li>
+  <li><b> 11:00 - 12:00 Session 2 - Rodrigo Rodrigues</b><br>
+  Tyler Crain and Marc Shapiro.
+  Designing a causally consistent protocol for geo-distributed partial replication<br>
+  Amadeo Asco and Annette Bieniusa.
+  Adaptive Strength Geo–Replication Strategy<br>
+  Manuel Bravo, Paolo Romano, Luís Rodrigues and Peter Van Roy.
+  Reducing the Vulnerability Window in Distributed Transactional Protocols<br>
+  <li><b> 12:00 - 14:00 Lunch</b></li>
+  <li><b> 14:00 - 14:50 Keynote - CRDTs in production</b>, <a href="http://peter.bourgon.org">Peter Bourgon</a>, (SoundCloud, Germany)</li>
+  <li><b> 14:50 - 15:30 Session 3 - Nuno Preguiça</b><br>
+  Giovanni Bernardi, Andrea Cerone, Alexey Gotsman and Hongseok Yang.
+  Analysing and Optimising Parallel Snapshot Isolation<br>
+  Christopher Meiklejohn and Peter Van Roy.
+  Lasp: A Language for Distributed, Eventually Consistent Computations with CRDTs<br>
+  <li><b> 15:30 - 16:30 Coffee Break and Poster Session</b></li>
+  <li><b> 16:30 - 17:30 Session 4 - Sean Cribbs</b><br>
+  Alejandro Zlatko Tomsic, Tyler Crain and Marc Shapiro.
+  An empirical perspective on causal consistency<br>
+  Alysson Bessani, Ricardo Mendes and Tiago Oliveira.
+  On the Consistency of Heterogeneous Composite Objects<br>
+  Santiago Castiñeira and Annette Bieniusa.
+  Collaborative offline web applications using Conflict-free Replicated Data Types<br>
+</ul> 
+ 
+ 
+--<p style="text-align: justify;"> 
+<b>Note: Each keynote has 50 minutes. Each paper has 20 minutes including questions and answers.</b> 
+</p> 
+
+
+<!--
+<h2>List of Accepted Talks:</h2> 
+ 
+<p style="text-align: justify;"> 
+The program of the conference will be announced within a few days, and will be composed by the talks detailed below and two invited talks.
+</p> 
+-->
+
+<!--<h2>Keynotes</h2> 
+
+<h3>Geo-replicated storage with scalable deferred update replication</h3>
+<h4><a href="http://www.inf.usi.ch/faculty/pedone/">Fernando Pedone</a>, University of Lugano (USI), Switzerland</h4>
+</br>
+<b>Abstract:</b>
+Many current online services are deployed over geographically distributed sites (i.e., datacenters). Such services call for geo-replicated storage, that is, storage distributed and replicated among many sites. Geographical distribution and replication can improve locality and availability of a service. Locality is achieved by moving data closer to the users. High availability is attained by replicating data in multiple servers and sites. In this talk I will consider a class of highly available storage systems based on deferred update replication. Deferred update replication ensures strong consistency and is at the core of several highly available storage systems. I will first show how the performance of deferred update replication can be made to scale to dozens and potentially hundreds of nodes. I will then consider the implications of the approach on user-perceived latency in geographically distributed environments and propose solutions. The talk will conclude with some open problems in the design of strongly consistent storage systems.
+</br>
+</br>
+<b>Bio:</b>
+Fernando Pedone received his Ph.D. degree in computer science from Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, in 1999. Before becoming Assistant and Associate Professor at the University of Lugano, he worked as a researcher at the Hewlett-Packard Laboratories in PaloAlto, California, and as a senior researcher at EPFL. His professional interestsinclude the theory and practice of distributed systems and distributed datamanagement systems. His theoretical work has addressed algorithmic aspects of reliable distributed systems, such as defining new abstractions for buildingreliable systems, creating algorithms implementing these abstractions and proving them correct. His systems work has considered using group communication abstractions to build replicated data management systems. To a large extent, he has been interested in the inter play between theory and practice.
+Fernando Pedone has authored more than 70 scientific papers.
+He is co-editor of the book Replication: theory and practice.
+
+
+<h3>SwiftCloud: Fault-Tolerant Geo-Replication Integrated all the Way to the Client
+Machine</h3>
+<h4><a href="http://asc.di.fct.unl.pt/~nmp/">Nuno Preguiça</a>, NOVA-LINCS & NOVA University of Lisbon, Portugal</h4>
+</br>
+<b>Abstract:</b>
+
+Client-side logic and storage are increasingly used in web and mobile  applications to improve response time and availability. 
+ Current approaches tend to be ad-hoc and poorly integrated with the
+ server-side logic.
+ We present a principled approach to integrate client- and server-side
+ storage.
+ We support both mergeable and strongly consistent transactions that target
+ either client or server replicas and provide access to
+ causally-consistent snapshots efficiently.
+ In the presence of infrastructure faults, a client-assisted failover
+ solution allows client execution to resume immediately and seamlessly
+ access consistent snapshots without waiting.
+ We implement this approach in SwiftCloud, the first transactional
+ system to bring geo-replication all the way to the client machine.
+
+ Example applications show that our programming model is useful across
+ a range of application areas.
+ Our experimental evaluation shows that SwiftCloud provides better
+ fault tolerance and at the same time can improve both latency and
+ throughput by up to an order of magnitude,
+ compared to classical geo-replication
+ techniques.
+ </br>
+</br>
+<b>Bio:</b>
+
+-->
+
+<!--
+<h3>Regular Papers</h3> 
+<ul>
+ 
+<li class="MsoNormal" style="text-align: justify;"> 
+<b>The Case for Fast and Invariant-Preserving Geo-Replication.</b><br>
+Valter Balegas, Nuno Preguica, Sérgio Duarte, Carla Ferreira, Rodrigo Rodrigues, Mahsa Najafzadeh and Marc Shapiro
+</li>
+<li class="MsoNormal" style="text-align: justify;"> 
+<b>Declared Causality in Wide-Area Replicated Storage.</b><br>
+Kyle Lady, Minkyong Kim and Brian Noble	
+</li>
+<li class="MsoNormal" style="text-align: justify;"> 
+<b>Mitigating the Spread of a Virus in the Internet.</b><br>
+Thanh Dang Nguyen, François Bonnet and Xavier Défago.
+</li>
+<li class="MsoNormal" style="text-align: justify;"> 
+<b>Latency Amplification: Characterizing the Impact of Web Page Content on Load Times.</b><br>
+Cătălin-Alexandru Avram, Kenneth Salem and Bernard Wong.
+</li>
+</ul>
+-->
+
+
+
+
+
+<!--#include virtual="./sponsors.html" --> 
+</div>
+</div>
+
+
+
+<!-- end content -->
+
+<!-- start sidebar -->
+<!--#include virtual="./sidebar.html" --> 
+<!-- end sidebar -->
+
+<div style="clear: both;">&nbsp;</div>
+
+</div>
+
+<!-- end page -->
+<!-- start footer -->
+<div id="footer">
+<p>&nbsp;Designed with a template from <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+  <p>&nbsp;Mars image credit: NASA/JPL/Marco Di Lorenzo/Ken Kremer.</p>
+
+</div>
+</div>
+
+<!-- end footer -->
+</body></html>
+<!-- Localized -->

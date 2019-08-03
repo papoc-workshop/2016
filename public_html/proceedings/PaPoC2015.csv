@@ -1,0 +1,19 @@
+"Short Paper","A Study of CRDTs that do Computations","David Navalho:NOVA-LINCS DI/FCT/Univ. Nova de Lisboa;Sérgio Duarte:NOVA-LINCS DI/FCT/Univ. Nova de Lisboa;Nuno Preguiça:NOVA-LINCS DI/FCT/Univ. Nova de Lisboa","david.navalho@campus.fct.unl.pt","smd@fct.unl.pt;nuno.preguica@fct.unl.pt","1"
+
+"Short Paper","An empirical perspective on causal consistency","Alejandro Zlatko Tomsic:Inria Paris-Rocquencourt & Sorbonne Universite's, UPMC Univ Paris 06, LIP6;Tyler Crain:Inria Paris-Rocquencourt & Sorbonne Universite's, UPMC Univ Paris 06, LIP6;Marc Shapiro:Inria Paris-Rocquencourt & Sorbonne Universite's, UPMC Univ Paris 06, LIP6","aletomsic@gmail.com","tyler.crain@lip6.fr;marc.shapiro@acm.org","2"
+
+"Short Paper","Adaptive Strength Geo–Replication Strategy","Amadeo Ascó Signes:Trifork Leeds, Leeds, UK;Annette Bieniusa:Technische Universität Kaiserslautern, Kaiserslautern, Germany","aas@trifork.com","bieniusa@cs.uni-kl.de","3"
+
+"Short Paper","Claret: Using Data Types for Highly Concurrent Distributed Transactions","Brandon Holt:University of Washington;Irene Zhang:University of Washington;Dan Ports:University of Washington;Mark Oskin:University of Washington;Luis Ceze:University of Washington","bholt@cs.washington.edu","iyzhang@cs.washington.edu;dkp@cs.washington.edu;oskin@cs.washington.edu;luisceze@cs.washington.edu","4"
+
+"Short Paper","Collaborative offline web applications using Conflict-free Replicated Data Types","Santiago Castiñeira:Technische Universität Kaiserslautern, Kaiserslautern, Germany;Annette Bieniusa:Technische Universität Kaiserslautern, Kaiserslautern, Germany","santiago.castineira@gmail.com","bieniusa@cs.uni-kl.de","5"
+
+"Short Paper","Designing a causally consistent protocol for geo-distributed partial replication","Tyler Crain:Inria Paris-Rocquencourt & Sorbonne Universite's, UPMC Univ Paris 06, LIP6;Marc Shapiro:Inria Paris-Rocquencourt & Sorbonne Universite's, UPMC Univ Paris 06, LIP6","tyler.crain@lip6.fr","marc.shapiro@acm.org","6"
+
+"Short Paper","Lasp: A Language for Distributed, Eventually Consistent Computations with CRDTs","Christopher Meiklejohn:Basho Technologies, Inc.;Peter Van Roy:Université Catholique de Louvain","cmeiklejohn@basho.com","peter.vanroy@uclouvain.be","7"
+
+"Short Paper","Minimizing Coordination in Replicated Systems","Cheng Li:MPI-SWS;João Leitão:NOVA-LINCS DI/FCT/Univ. Nova de Lisboa;Allen Clement:Google Inc.;Nuno Preguiça:NOVA-LINCS DI/FCT/Univ. Nova de Lisboa;Rodrigo Rodrigues:NOVA-LINCS DI/FCT/Univ. Nova de Lisboa","chengli@mpi-sws.org","jc.leitao@fct.unl.pt;aclement@gmail.com;nuno.preguica@fct.unl.pt;rodrigo.rodrigues@fct.unl.pt","8"
+
+"Short Paper","On the Consistency of Heterogeneous Composite Objects","Alysson Bessani:University of Lisboa, Faculty of Sciences/LaSIGE;Ricardo Mendes:University of Lisboa, Faculty of Sciences/LaSIGE;Tiago Oliveira:University of Lisboa, Faculty of Sciences/LaSIGE","bessani@di.fc.ul.pt","rmendes@lasige.di.fc.ul.pt;toliveira@lasige.di.fc.ul.pt","9"
+
+"Short Paper","Reducing the Vulnerability Window in Distributed Transactional Protocols","Manuel Bravo:Université Catholique de Louvain, Belgium and INESC-ID, Instituto Superior Técnico, Universidade de Lisboa, Portugal;Paolo Romano:INESC-ID, Instituto Superior Técnico, Universidade de Lisboa, Portugal;Luís Rodrigues:INESC-ID, Instituto Superior Técnico, Universidade de Lisboa, Portugal;Peter Van Roy:Université Catholique de Louvain, Belgium","manuelbravogestoso@gmail.com","romano@inesc-id.pt;ler@ist.utl.pt;peter.vanroy@uclouvain.be","10"

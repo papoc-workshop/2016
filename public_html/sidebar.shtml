@@ -1,0 +1,28 @@
+<div id="sidebar" class="sidebar">
+<!-- <ul>
+	<li>
+ 		<h3>Programme Chairs</h3>
+		<ul>
+      <li>Marco Serafini</li>
+      <li>(Qatar Computing Research Institute, QA)</li>
+      <li>Carlos Baquero</li>
+      <li>(INESC TEC & University of Minho, PT)</li>
+    </ul>
+  </ul>
+-->
+<ul>
+  <li>
+   <!--#include virtual="./sidebar_dates.shtml" -->
+  </li>
+
+
+ <li>
+    <h3>Contact</h3>
+
+    <ul>
+      <li>papoc2016@ciencias.ulisboa.pt</li>
+    </ul>
+
+  </li>
+</ul>
+</div>

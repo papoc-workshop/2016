@@ -1,0 +1,52 @@
+SUBJECT: EuroSys publication instructions
+
+Dear authors of an EuroSys conditionally accepted paper,
+
+Please find below important information regarding the preparation and submission of the camera-ready of your paper.
+
+Note that the final acceptance decision is made by the PC chairs. This email must not be considered as a confirmation of final acceptation.
+
+Your camera-ready version and copyright information are due on March 16.
+
+======= PAPER FORMAT =======
+
+Your paper must be formatted using the instructions on the CFP, reproduced below:
+
+Papers must be formatted using a 10pt font, single spacing (minimum 11pt spacing between lines), two columns with 0.33 inches between columns, and a text box of 7 by 9 inches. Please ensure that the pages are numbered. The ACM SIGPLAN style should achieve the required formatting if using the “10pt” option (http://www.sigplan.org/authorinformation.htm).
+
+Do not use the "preprint" option for the final version.
+
+Please make sure that the figures and graphics are readable when printed with a black & white printer.
+
+Your paper is allowed 14 pages in the proceedings, plus references.
+
+======= CONFERENCE INFORMATION =======
+
+Please use the following information for the copyright information that must appear at the end of your first column:
+
+\conferenceinfo{EuroSys'15}{April 21--24, 2015, Bordeaux, France} 
+\copyrightyear{2015} 
+\copyrightdata{978-1-4503-3238-5/15/04} 
+\doi{nnnnnnn.nnnnnnn}
+
+You must replace nnnnnnn.nnnnnnn by the DOI of your paper. The DOI is available from the ACM copyright form collection website (SIGCMS) described next.
+
+======= COPYRIGHT FORMS =======
+
+The first author (or first contact author if any) has received a request from the ACM for collecting the copyright for your paper. Please make sure you follow the instructions on the SIGCMS and submit the copyright form before March 16.
+
+If you did not receive the email, contact the publication chair at etienne.riviere@unine.ch immediately.
+
+======= TITLE, AFFILIATIONS, AUTHORS =======
+
+When accessing the SIGCMS, please make sure the title, list of authors, list of emails are correct. Note that ACM uses only the email listed in the "Email" column. If you want to change this to another email, you can do it on the SIGCMS itself.
+
+======= WHERE TO SEND =======
+
+When your paper is ready, please send it in PDF format to etienne.riviere@unine.ch You will get a confirmation that the paper matches the requirements and prints without problem. While not formally required, it is highly recommended that you embed fonts in your PDF.
+
+I am available if you have any question,
+
+Best regards
+Etienne Riviere
+EuroSys 2015 publication chair.

@@ -1,0 +1,50 @@
+SUBJECT: EuroSys PaPoC Workshop ACM DL publication instructions
+
+Dear authors of an accepted paper for PaPoC,
+
+Please find below important information regarding the preparation and submission of your camera-ready paper.
+
+Your camera-ready version and copyright information are due on March 27.
+
+======= PAPER FORMAT =======
+
+Your paper must be formatted using the instructions reproduced below:
+
+Papers must be formatted using a 10pt font, single spacing (minimum 11pt spacing between lines), two columns with 0.33 inches between columns, and a text box of 7 by 9 inches. Please ensure that the pages are numbered. The ACM SIGPLAN style should achieve the required formatting if using the “10pt” option (http://www.sigplan.org/authorinformation.htm).
+
+Do not use the "preprint" option for the final version.
+
+Please make sure that the figures and graphics are readable when printed with a black & white printer.
+
+Your paper is allowed to have 4 pages in the proceedings.
+
+======= CONFERENCE INFORMATION =======
+
+Please use the following information for the copyright information that must appear at the end of your first column:
+
+\conferenceinfo{PaPoC'15}{April 21, 2015, Bordeaux, France} 
+\copyrightyear{2015} 
+\copyrightdata{978-1-4503-3238-5/15/04} 
+\doi{nnnnnnn.nnnnnnn}
+
+You must replace nnnnnnn.nnnnnnn by the DOI of your paper. The DOI is available from the ACM copyright form collection website (SIGCMS) described next.
+
+======= COPYRIGHT FORMS =======
+
+The first author (or first contact author if any) has received (or will receive until March 16) a request from the ACM for collecting the copyright for your paper. Please make sure you follow the instructions on the SIGCMS and submit the copyright form before March 16.
+
+If you do not receive the email, contact the chairs at papoc2015@di.uminho.pt 
+
+======= TITLE, AFFILIATIONS, AUTHORS =======
+
+When accessing the SIGCMS, please make sure the title, list of authors, list of emails are correct. Note that ACM uses only the email listed in the "Email" column. If you want to change this to another email, you can do it on the SIGCMS itself.
+
+======= WHERE TO SEND =======
+
+When your paper is ready, please send it in PDF format to papoc2015@di.uminho.pt You will get a confirmation that the paper matches the requirements and prints without problem. While not formally required, it is highly recommended that you embed fonts in your PDF.
+
+I am available if you have any question,
+
+Best regards
+Carlos Baquero and Marco Serafini
+PaPoC 2015 chairs.
